@@ -1,0 +1,14 @@
+{
+    "geode": "v5.3.0",
+    "gd": {
+        "android": "2.2081"
+    },
+    "id": "nicolas12392837.four-coins",
+    "name": "Four Coins",
+    "version": "v1.0.0",
+    "developer": "nicolas12392837",
+    "description": "Adds support for a fourth User Coin in Geometry Dash.",
+    "tags": [
+        "enhancement"
+    ]
+}
